@@ -1,5 +1,5 @@
-# view.qiime2.org
-Static hosting for q2view, go here for source code ->
+# view.qiime2.cn
+Static hosting for q2view
 镜像在了国内的服务器上，欢迎使用！
 [https://view.qiime2.cn](https://view.qiime2.cn)
 没事的时候，翻github，发现了qiime view网站的源代码是公开的，可以静态布署。手上有个云服务器，前几天又获得了一个免费域名qiime2.cn，于是做了一个镜像网站view.qiime2.cn，分享给需要的人。服务器在重庆，国内延时很小，打开完全速度稍慢，应该是服务器性能的原因，如果需要用这个功能，官方网站又打开特别慢的话，可以考虑下我这个镜像。
